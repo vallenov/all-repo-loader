@@ -1,4 +1,9 @@
 requests==2.27.1
+appdirs>=1.4.0
+pytz
+six>=1.9.0
+Pillow
+reportlab>=3.3.0
 bs4==0.0.1
 lxml==4.7.1
 configparser
